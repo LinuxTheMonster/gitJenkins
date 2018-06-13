@@ -4,4 +4,14 @@ git add task2.txt
 git commit -m "first commit"
 git remote add origin https://github.com/LinuxTheMonster/gitJenkins.git
 git push -u origin master
-git pull origi master
+git pull origin master
+Creating new branch
+git branch Release1.0
+next
+To switch to new branch
+git checkout Release1.0.
+make changes
+git add
+git commit -m " "
+git push -u origin Release1.0
+git pull origin Release1.0 
