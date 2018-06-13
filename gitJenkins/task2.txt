@@ -1,0 +1,6 @@
+echo "#test for jenkins" >> task2.txt
+git init
+git add task2.txt
+git commit -m "first commit"
+git remote add origin https://github.com/LinuxTheMonster/gitJenkins.git
+git push -u origin master
