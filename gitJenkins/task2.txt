@@ -14,4 +14,6 @@ make changes
 git add
 git commit -m " "
 git push -u origin Release1.0
-git pull origin Release1.0 
+git pull origin Release1.0
+
+************************* 
